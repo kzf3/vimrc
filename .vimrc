@@ -5,7 +5,8 @@
 if 0 | endif
 
 if &compatible
-  set nocompatible               " Be iMproved
+  " Be iMproved
+  set nocompatible
 endif
 
 " Required:
@@ -80,6 +81,8 @@ else
   set shiftwidth=2
 endif
 
+" 縦分割時に右側に開く
+set splitright
 " 連続した空白に対してタブキーやバックスペースキーで動く幅
 set softtabstop=4
 " 行頭の余白内で打ち込むとshiftwidth分だけインデントされる。
