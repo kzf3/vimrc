@@ -25,6 +25,7 @@ NeoBundle 'mattn/emmet-vim'            " Emmet
 NeoBundle 'nanotech/jellybeans.vim'    " テーマカラー
 NeoBundle 'w0ng/vim-hybrid'
 NeoBundle 'tpope/vim-obsession'        " tmuxと一緒にsessionを残す
+NeoBundle 'slim-template/vim-slim'
 
 " My Bundles here:
 " Refer to |:NeoBundle-examples|.
